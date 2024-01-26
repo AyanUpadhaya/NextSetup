@@ -1,0 +1,2 @@
+# NextSetup
+ NextJs Basic
